@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-07-09T19:43:50+03:00
+
+====== Loader ======
+Created Пятница 09 июля 2021
+
+* Загрузчики должны быть нескольких типов 
+	* xml
+	* json
+	* yaml
+* Необходима версионность каждого типа
